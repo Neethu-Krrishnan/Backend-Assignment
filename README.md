@@ -1,5 +1,5 @@
 Project Name : Inventory Management System
-🔗 Live Demo : https://guileless-tiramisu-17d903.netlify.app/
+🔗 Live Demo : https://cheery-lily-e695e1.netlify.app/
 📖 Description: This is a e-commerce businesses with web and mobile app support. Instant updates whenever an item is sold, received, or moved.
  
 🛠️ Technologies Used
@@ -13,7 +13,7 @@ Project Name : Inventory Management System
     ### Installation Steps
     1. Clone the repository
         ```bash
-        git clone https://github.com/yourusername/your-repo-name.git
+        git clone https://github.com/Neethu-Krrishnan/Backend-Assignment.git
         Navigate to project directory
         d your-repo-name
     2. Install dependencies
@@ -22,11 +22,6 @@ Project Name : Inventory Management System
     3.Start development server
         npm start
         Open http://localhost:3000 in your browser
-
-
-
-    Neethumol K K
-    ● GitHub: (https://github.com/Neethu-Krrishnan/Skill-Swap---Mini-project.git)
     
 📄 License
        This project is open source and available under the MIT License.
