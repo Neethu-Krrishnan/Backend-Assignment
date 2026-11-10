@@ -1,0 +1,25 @@
+const inventories = [
+    {
+        id: 1,
+        name: "Laptop",
+        category: "Electronics",
+        price: 55000,
+        quantity: 10
+    },
+    {
+        id: 2,
+        name: "Mobile",
+        category: "Electronics",
+        price: 35000,
+        quantity: 20
+    },
+    {
+        id: 3,
+        name: "Keyboard",
+        category: "Accessories",
+        price: 1000,
+        quantity: 15
+    }
+];
+
+module.exports = inventories;
